@@ -50,7 +50,7 @@ Resources:
           artifacts:
             baseDirectory: frontend/public/
             files:
-              - '*/**'
+              - 'frontend/public/*/**'
       #CustomRules: 
       #  - CustomRule
       #Description: String
